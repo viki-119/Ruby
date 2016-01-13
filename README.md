@@ -1,5 +1,7 @@
 # Ruby
-ruby的相关介绍：http://www.thinksaas.cn/group/topic/337816/
+ruby的相关介绍：http://www.iteye.com/topic/148751
+
+http://www.thinksaas.cn/group/topic/337816/
 
 http://blog.csdn.net/jason314/article/details/6204781
 
