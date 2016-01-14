@@ -1,4 +1,7 @@
 # Ruby
+
+ruby学习网站：https://ihower.tw/rails4/index.html
+
 ruby的相关介绍：http://www.jikexueyuan.com/course/ruby/
 
 http://www.iteye.com/topic/148751
