@@ -1,4 +1,6 @@
 # Ruby  http://down.51cto.com/zt/5011
+
+ruby on rails官网：http://rubyonrails.org/
 ruby官方学习网站：http://www.ruby-lang.org/zh_cn
 
 ruby学习网站：https://ihower.tw/rails4/index.html
