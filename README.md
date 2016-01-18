@@ -1,5 +1,7 @@
 # Ruby  http://down.51cto.com/zt/5011
 
+http://www.cnblogs.com/coderlee/archive/2008/01/04/1025343.html
+
 ruby on rails官网：http://rubyonrails.org/
 
 ruby官方学习网站：http://www.ruby-lang.org/zh_cn
